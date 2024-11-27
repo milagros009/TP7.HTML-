@@ -1,0 +1,31 @@
+
+  h1{
+    color:black;
+}
+h2{
+  color:red;
+}
+body{
+ background-image:url(fondo.avif);
+ background-size: cover;
+ background-repeat: no-repeat;
+ background-position: center;
+
+}
+span.orange{
+  color:orange;
+ }
+
+ span.green{
+  color:green;
+ }
+ span.green{
+  color:green;
+ }
+ h3{
+color:yellow;
+ }
+
+span.green{
+ color:green;
+}
